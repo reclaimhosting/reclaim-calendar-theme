@@ -23,8 +23,9 @@
         body {
             background-color: white;
         }
-        #nav-menu li a {
+        .navbar {
             font-size: 16px;
+            line-height: 24px;
         }
     </style>
 </head>
