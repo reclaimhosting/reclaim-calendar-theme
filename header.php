@@ -23,6 +23,9 @@
         body {
             background-color: white;
         }
+        #nav-menu li a {
+            font-size: 16px;
+        }
     </style>
 </head>
 
